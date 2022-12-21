@@ -1,0 +1,5 @@
+# Project exclude paths
+/out/
+/SubModuleOne/target/
+/SubModuleThree/target/
+/SubModuleTwo/target/
